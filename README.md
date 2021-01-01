@@ -35,3 +35,21 @@
 - 21장 그리디 알고리즘
 - 22장 분할 정복
 - 23장 다이나믹 프로그래밍
+
+---
+##### 들어가며
+- 책의 개발 언어 및 도구
+  - 공식 인터프리터인 CPython 3.7+ version
+  - 리트코드(https://leetcode.com) 사이트에서 직접 풀이 가능
+  ```python
+  - #리트코드 기본 라이브러리
+  import collections
+  import heapq
+  import functools
+  import itertools
+  import re
+  import sys
+  import math
+  import bisect
+  from typing import *
+  ```
